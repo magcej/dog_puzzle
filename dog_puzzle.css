@@ -1,0 +1,12 @@
+.area {
+
+  border: 1px solid red;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid red;
+  width: 31px;
+  height: 31px;
+  text-align: center;
+}
